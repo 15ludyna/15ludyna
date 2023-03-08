@@ -6,6 +6,6 @@ Skills
 -----
 :gear:           **Rust**  
 :snake:          **Python**, FastAPI, Flask  
-:sunglasses:     **TypeScript**, React, Astro
+:sunglasses:     **TypeScript**, React, Astro \n
 :pick:           NeoVim, Linux, tmux
 :paintbrush:     Blender, Fusion360, Photoshop, Premiere Pro
