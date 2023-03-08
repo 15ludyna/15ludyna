@@ -4,6 +4,7 @@ web & game developer
 
 Skills
 -----
+:gamepad:        **Unity**  
 :gear:           **Rust**  
 :snake:          **Python**, FastAPI, Flask  
 :sunglasses:     **TypeScript**, React, Astro  
