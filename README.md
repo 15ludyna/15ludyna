@@ -1,4 +1,4 @@
-# Hi, I am Mykyta :wave:
+Hi, I am Mykyta :wave:
 =========================
 web & game developer
 
