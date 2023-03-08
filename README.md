@@ -8,4 +8,4 @@ Skills
 :snake:          **Python**, FastAPI, Flask  
 :sunglasses:     **TypeScript**, React, Astro
 :pick:           NeoVim, Linux, tmux
-:paintbrush:     Belnder, Fusion360, Photoshop, Premiere Pro
+:paintbrush:     Blender, Fusion360, Photoshop, Premiere Pro
